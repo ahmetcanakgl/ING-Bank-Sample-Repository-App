@@ -2,7 +2,7 @@
 
 **Android project created for ING Bank interview**
 
-*This project, written in Kotlin language, is coded with RXJava, using DI and MVVM architecture. *
+*This project, written in Kotlin language, is coded with RXJava, using DI and MVVM architecture.*
 
 ---
 
