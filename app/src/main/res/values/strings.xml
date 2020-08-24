@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ING Repo</string>
+    <string name="submit">Submit</string>
+    <string name="stars">Stars :</string>
+    <string name="open_issue_count">Open Issue Count :</string>
+    <string name="last_updated">Updated at :</string>
+    <string name="statistics_for">Statistics for <b>%1$s</b> repository :</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

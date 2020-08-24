@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F8A97E</color>
+    <color name="colorPrimaryDark">#FC5926</color>
+    <color name="colorAccent">#525199</color>
+
+
+    <color name="toast_background">#011627</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_indicator">#B2B4BA</color>
+
+
+    <color name="cool_grey">#8D8F94</color>
+    <color name="cool_grey_light">#998D8F94</color>
+    <color name="pale_grey">#E0E3E9</color>
+    <color name="pale_grey_light">#99E0E3E9</color>
+    <color name="pale_grey2">#f3f4f9</color>
+    <color name="pale_grey2_light">#99F4F5FA</color>
+    <color name="light_red">#FF4049</color>
+    <color name="light_red_light">#99FF4049</color>
+    <color name="gun_metal">#4B4F5A</color>
+    <color name="gun_metal_light">#994B4F5A</color>
+    <color name="dark">#1B1F29</color>
+    <color name="dark_light">#991B1F29</color>
+
+    <color name="pager_indicator">@color/colorAccent</color>
+</resources>
